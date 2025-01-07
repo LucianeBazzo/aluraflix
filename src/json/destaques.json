@@ -1,0 +1,19 @@
+[
+  { "id": 1,
+    "titulo": "O que faz uma desenvolvedora front-end?",
+    "imagem": "https://encurtador.com.br/ftGDV",
+    "link": "https://www.youtube.com/embed/ZY3-MFxVdEw",
+    "categoria": "FRONT END",    
+    "cor": "#6BD1FF"
+  },
+  {
+    "id": 5,
+    "titulo": "O que estudar para ser desenvolvedor backend?",
+    "imagem": "https://coodesh.com/blog/wp-content/uploads/2020/09/back-end-python-1152x648.jpg",
+    "link": "https://www.youtube.com/watch?v=3Wo4L2dPS58",
+    "categoria": "BACK END",
+    "cor": "#00C86F"
+
+  
+  }
+]

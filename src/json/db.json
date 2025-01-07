@@ -1,0 +1,46 @@
+
+   [
+        {
+          "id": 1,
+          "titulo": "O que faz uma desenvolvedora front-end?",
+          "imagem": "https://encurtador.com.br/ftGDV",
+          "link": "https://www.youtube.com/embed/ZY3-MFxVdEw",
+          "categoria": "FRONT END"
+        },
+        {
+          "id": 2,
+          "titulo": "O que é JavaScript?",
+          "imagem": "https://encurtador.com.br/1wl5C",
+          "link": "https://www.youtube.com/watch?v=NaVSbnnV75Q",
+          "categoria": "FRONT END"
+        },
+        {
+          " id:": 3,
+          "titulo": "O que é React JS?",
+          "imagem": "https://encurtador.com.br/m1yz3",
+          "link": "https://www.youtube.com/watch?v=6IuQUgeDPg0",
+          "categoria": "FRONT END"
+        },
+        {
+          "id": 4,
+          "titulo": "O que faz uma desenvolvedora Back-end? ",
+          "imagem": "https://vagas.byintera.com/wp-content/uploads/2022/12/INTERA-Blog-Backend.png",
+          "link": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+          "categoria": "BACK END"
+        },
+        {
+          "id": 5,
+          "titulo": "O que estudar para ser desenvolvedor backend?",
+          "imagem": "https://coodesh.com/blog/wp-content/uploads/2020/09/back-end-python-1152x648.jpg",
+          "link": "https://www.youtube.com/watch?v=3Wo4L2dPS58",
+          "categoria": "BACK END"
+        },
+        {
+          "id": 6,
+          "titulo": "Como se tornar Dev FullStack?",
+          "imagem": "https://hermes.dio.me/articles/cover/ca9aa2a5-55d9-4aa4-93a0-f3f7d8001a2f.png",
+          "link": "https://www.youtube.com/watch?v=6OHWgGWFoAU",
+          "categoria": "BACK END"
+        }
+        
+      ]
