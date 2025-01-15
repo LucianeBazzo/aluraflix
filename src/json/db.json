@@ -41,6 +41,21 @@
           "imagem": "https://hermes.dio.me/articles/cover/ca9aa2a5-55d9-4aa4-93a0-f3f7d8001a2f.png",
           "link": "https://www.youtube.com/watch?v=6OHWgGWFoAU",
           "categoria": "BACK END"
+        },
+        {
+          "id": 7,
+          "titulo": "As 9 Softskills mais desejadas pelas empresas | #AluraMais",
+          "imagem": "https://i.ytimg.com/vi/SjY0zj17-8U/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDza7R0fevrUEnjyswSHbdgtkKzPw",
+          "link": "https://www.youtube.com/watch?v=SjY0zj17-8U&list=PLh2Y_pKOa4UcjTE5zJ6Bbq9eiOtKuFQS_&index=1",
+          "categoria": "INOVACAO E GESTAO"
+        },
+        {
+          "id": 8,
+          "titulo": "Apresentações: como falar sobre si? #AluraMais",
+          "imagem": "https://images.pexels.com/photos/6230960/pexels-photo-6230960.jpeg?auto=compress&cs=tinysrgb&w=600",
+          "link": "https://www.youtube.com/watch?v=MphsmAn8Xmk&list=PLh2Y_pKOa4UcjTE5zJ6Bbq9eiOtKuFQS_&index=8",
+          "categoria": "INOVACAO E GESTAO"
         }
+        
         
       ]
